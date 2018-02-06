@@ -1,12 +1,12 @@
 {
-  "name": "gitbook-plugin-code-path-params",
-  "version": "1.1.11",
+  "name": "gitbook-plugin-gitbook-space-issue",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KimGenius/code-path-params.git"
+    "url": "git+https://github.com/KimGenius/gitbook-space-issue-plugin.git"
   },
   "engines": {
     "gitbook": "*"
@@ -14,8 +14,8 @@
   "author": "GeniusK",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KimGenius/code-path-params/issues"
+    "url": "https://github.com/KimGenius/gitbook-space-issue-plugin/issues"
   },
-  "homepage": "https://github.com/KimGenius/code-path-params#readme",
+  "homepage": "https://github.com/KimGenius/gitbook-space-issue-plugin#readme",
   "dependencies": {}
 }
